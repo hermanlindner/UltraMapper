@@ -93,3 +93,11 @@ Moreover UltraMapper is:
 
 **ANY FEEDBACK IS WELCOME**
 
+**Changes with respect to original Ultramapper**
+Here is a short list of changes made:
+1) Solved a bug in Projection mapping where the original Ultramapper gave an exception.
+2) Added the possibility to map to another implementation of a target collection interface.
+3) Added the posibility to do conditional mapping. So only map a field under certain conditions.
+
+
+
